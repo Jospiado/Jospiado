@@ -15,7 +15,7 @@ Full Stack Developer passionate about building efficient and innovative solution
 - Unit testing and test-driven development (TDD)
 
 ### 📈 GitHub Stats
-[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jospiado&show_icons=true&theme=dracula)](https://github.com/jospiado)
+[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jospiado&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&token=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)](https://github.com/jospiado)
 
 ### 💻 Featured Projects
 - [Client Management System](https://github.com/jospiado/sistema-gerenciamento-clientes)
