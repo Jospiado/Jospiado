@@ -23,7 +23,7 @@ Full Stack Developer passionate about building efficient and innovative solution
 
 ### 💻 Featured Projects
 - [MM Generator](https://github.com/jospiado/mm-generator)
-- [Financial Control App](https://github.com/jospiado/app-financeiro)
+- [Java Spring Api](https://github.com/jospiado/api-java-spring)
 - [Process Automation](https://github.com/jospiado/automacao-processos)
 
 ### 📫 Reach Me
