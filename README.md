@@ -14,11 +14,15 @@ Full Stack Developer passionate about building efficient and innovative solution
 - Cloud computing with AWS and Azure
 - Unit testing and test-driven development (TDD)
 
-### 📈 GitHub Stats
-[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jospiado&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&token=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)](https://github.com/jospiado)
+### 🌟 Highlights
+- 🏆 **Freelance Projects:** Successfully delivered multiple custom client management systems and financial control apps.
+- 📈 **Automation Expertise:** Developed automation scripts for internal processes using APEX and Python, resulting in significant time savings.
+- 💡 **Problem-Solving Skills:** Tackled complex challenges in full-stack development projects, optimizing performance and user experience.
+- 🤝 **Collaboration:** Worked with multidisciplinary teams to implement innovative solutions for companies.
+- 📚 **Continuous Learning:** Always expanding knowledge in the latest technologies and best practices in software development.
 
 ### 💻 Featured Projects
-- [Client Management System](https://github.com/jospiado/sistema-gerenciamento-clientes)
+- [MM Generator](https://github.com/jospiado/mm-generator)
 - [Financial Control App](https://github.com/jospiado/app-financeiro)
 - [Process Automation](https://github.com/jospiado/automacao-processos)
 
