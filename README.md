@@ -3,10 +3,10 @@
 Full Stack Developer passionate about building efficient and innovative solutions using technologies like Java, JavaScript, React, Angular, Python, and Node.js.
 
 ### 🚀 Skills
-- **Languages:** Java, JavaScript, Python, Node.js
+- **Languages:** Java, JavaScript, Python, Node.js, C, C++
 - **Front-End:** React, Angular, Vue.js
 - **Back-End:** Node.js, Java, APEX
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Docker, Git, Linux, CI/CD
 
 ### 🌱 Currently Learning
@@ -25,4 +25,3 @@ Full Stack Developer passionate about building efficient and innovative solution
 ### 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/joao-pedro-9a1328247/)
 - [Email](mailto:devjoaopedromartins@gmail.com)
-
