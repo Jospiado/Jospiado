@@ -24,7 +24,7 @@ Full Stack Developer passionate about building efficient and innovative solution
 ### 💻 Featured Projects
 - [MM Generator](https://github.com/jospiado/mm-generator)
 - [Java Spring Api](https://github.com/jospiado/api-java-spring)
-- [Process Automation](https://github.com/jospiado/automacao-processos)
+- [Angular Front of Java API](https://github.com/Jospiado/angular-front-of-javaAPI)
 
 ### 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/joao-pedro-9a1328247/)
